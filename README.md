@@ -1,4 +1,4 @@
-# Devbook
+# DevSocial
 Social media application developed using Golang
 
 ## User functions:
